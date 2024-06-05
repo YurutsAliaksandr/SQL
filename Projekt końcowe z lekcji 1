@@ -1,4 +1,3 @@
-/* Source: http://www.boxofficemojo.com/alltime/world/ */
 CREATE TABLE topmovies(
    Rank        INTEGER,
    Title       TEXT,
